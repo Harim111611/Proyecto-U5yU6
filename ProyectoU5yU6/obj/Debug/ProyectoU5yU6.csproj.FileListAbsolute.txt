@@ -1,0 +1,10 @@
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\bin\Debug\ProyectoU5yU6.exe.config
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\bin\Debug\ProyectoU5yU6.exe
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\bin\Debug\ProyectoU5yU6.pdb
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\obj\Debug\ProyectoU5yU6.csprojAssemblyReference.cache
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\obj\Debug\ProyectoU5yU6.Form1.resources
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\obj\Debug\ProyectoU5yU6.Properties.Resources.resources
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\obj\Debug\ProyectoU5yU6.csproj.GenerateResource.cache
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\obj\Debug\ProyectoU5yU6.csproj.CoreCompileInputs.cache
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\obj\Debug\ProyectoU5yU6.exe
+C:\Users\Familia Luna\Desktop\Proyectos\Pu5y5\ProyectoU5yU6\obj\Debug\ProyectoU5yU6.pdb
